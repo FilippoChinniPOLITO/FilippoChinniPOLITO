@@ -13,6 +13,6 @@ This account was previously FilippoChinniUNIBA, related to my old Bachelor's Deg
 
 I obtained my Bachelor's of Science Degree in **Computer Science and Technologies for Software Production** in July 2024 at University of Bari "Aldo Moro". 📜
 
-Now I moved to Turin were I attend the Master of Science Degree in **Computer Engineering**. 🏔️
+Now I moved to Turin were I am now attending the Master of Science Degree program in **Computer Engineering**. 🏔️
 
 

@@ -6,8 +6,9 @@ My name is Filippo Chinni Carella 👋. I'm currently a "Computer Engineering" (
 
 I'm especially interested in Software Engineering and Artifical Intelligence technologies. 🖱️🤖
 
+<br>
 
-### Previously FilippoChinniUNIBA
+### Previously: FilippoChinniUNIBA
 
 This account was previously FilippoChinniUNIBA, related to my old Bachelor's Degree university. 🔙
 

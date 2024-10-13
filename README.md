@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, this is ```FilippoChinniPOLITO``` profile overview
 
-<!--
-**FilippoChinniPOLITO/FilippoChinniPOLITO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GitHub Account for univerisity-related projects. 📖
 
-Here are some ideas to get you started:
+My name is Filippo Chinni Carella. :👋 I'm currently a "Computer Engineering" (Curriculum: Artifical Intelligence and Data Analytics) graduate student at Politecnico di Torino (Polito). 🏫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in Software Engineering and Artifical Intelligence technologies. 🖱️🤖
+
+
+### Previously FilippoChinniUNIBA
+
+This account was previously FilippoChinniUNIBA, related to my old Bachelor's Degree university. 🔙
+
+I obtained my Bachelor's of Science Degree in **Computer Science and Technologies for Software Production** in July 2024 at University of Bari "Aldo Moro". 📜
+
+Now I moved to Turin were I attend the Master of Science Degree in **Computer Engineering**. 🏔️
+
+

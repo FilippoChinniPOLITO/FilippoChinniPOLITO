@@ -2,7 +2,7 @@
 
 This is my GitHub Account for university-related projects. 📖
 
-My name is Filippo Chinni Carella 👋. I'm currently a "Computer Engineering" (Curriculum: Artifical Intelligence and Data Analytics) graduate student at Politecnico di Torino (Polito). 🏛️
+My name is Filippo Chinni Carella 👋. I'm currently a "**Computer Engineering**" (Curriculum: **Artifical Intelligence and Data Analytics**) graduate student at Politecnico di Torino (Polito). 🏛️
 
 I'm especially interested in Software Engineering and Artifical Intelligence technologies. 🖱️🤖
 

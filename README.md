@@ -10,7 +10,7 @@ I'm especially interested in Software Engineering and Artifical Intelligence tec
 
 ### Previously: FilippoChinniUNIBA
 
-This account was previously FilippoChinniUNIBA, related to my old Bachelor's Degree university. 🔙
+This account was previously named ```FilippoChinniUNIBA```, related to my old Bachelor's Degree university. 🔙
 
 I obtained my Bachelor's of Science Degree in **Computer Science and Technologies for Software Production** in July 2024 at University of Bari "Aldo Moro". 📜
 
